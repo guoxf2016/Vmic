@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mic</string>
+    <string name="mic_on_or_off_button">mic on or off button</string>
+    <string name="pc_ip_address">PC Ip Address</string>
+
+    <string name="channel_name">Vmic Notification Channel Name</string>
+    <string name="channel_description">Vmic Notification Channel Description</string>
+
+    <string name="notification_title">Vmic</string>
+    <string name="notification_text">Vmic is working on background</string>
+</resources>
